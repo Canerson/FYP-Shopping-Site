@@ -1,0 +1,46 @@
+body {
+    background-color: #FED008;
+}
+
+.customImgStock {
+    color: white;
+}
+
+.customImgStock img {
+    max-width: 50%;
+}
+
+.customImgLogo {
+    color: white;
+}
+
+.customImgLogo img {
+    max-width: 25%;
+}
+
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 1.0rem;
+        padding-left: 1.0rem;
+    }
+}
+
+.customCard {
+    border: none;
+}
+
+.card-body {
+    background-color: #1C1E1F;
+}
+
+.customCard h5 {
+    color: white;
+}
+
+.customCard p {
+    color: #c2c2c2;
+}
+
+.customInput {
+    background-color: white;
+}
